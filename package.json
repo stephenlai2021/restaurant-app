@@ -1,0 +1,12 @@
+{
+  "name": "hindor.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "push": "git add . && git commit -m commit && git push origin master"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
